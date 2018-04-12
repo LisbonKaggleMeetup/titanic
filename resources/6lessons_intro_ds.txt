@@ -1,0 +1,20 @@
+A 6-Lesson Intro to Data Science
+by elitedatascience.com
+
+Birds-eye-view
+https://elitedatascience.com/birds-eye-view
+
+Exploratory Analysis
+https://elitedatascience.com/exploratory-analysis
+
+Data Cleaning
+https://elitedatascience.com/data-cleaning
+
+Feature Engineering
+https://elitedatascience.com/feature-engineering
+
+Algorithm Selection
+https://elitedatascience.com/algorithm-selection
+
+Model Training
+https://elitedatascience.com/model-training
