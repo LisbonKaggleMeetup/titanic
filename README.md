@@ -18,7 +18,7 @@ You can also find awesome resources regarding Python and Machine Learning inside
 - seaborn
 
 ### Usage
-
+- Download and extract the repository zip
 - Download the files train.csv and test.csv accessing this link https://www.kaggle.com/c/titanic/data
 - Create a folder joana_alex/input and put the files above inside the folder
 - Clean the data
