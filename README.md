@@ -32,4 +32,5 @@ jupyter-notebook.exe joana_alex/data_viz.ipynb
 ```
 
 ## Acknowledges
-
+- https://www.kaggle.com/startupsci/titanic-data-science-solutions
+- https://www.kaggle.com/datalana/the-preprocessing-framework-with-titanic
