@@ -19,7 +19,7 @@ You can also find awesome resources regarding Python and Machine Learning inside
 
 ### Usage
 
-- Download the files train.csv and test.csv acessing this link https://www.kaggle.com/c/titanic/data
+- Download the files train.csv and test.csv accessing this link https://www.kaggle.com/c/titanic/data
 - Create a folder joana_alex/input and put the files above inside the folder
 - Clean the data
 ```sh
